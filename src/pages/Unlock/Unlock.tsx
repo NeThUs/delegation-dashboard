@@ -106,11 +106,11 @@ export const Unlock = () => {
         </div>
 
         <strong className={styles.heading}>
-          MultiversX Delegation Dashboard
+          NTH Inc - MultiversX Delegation Dashboard
         </strong>
 
         <div className={styles.description}>
-          {`Delegate MultiversX (${network.egldLabel}) and earn up to 25% APY!`}
+          {`NTH Inc - Delegate MultiversX (${network.egldLabel}) and earn up to 12% APY!`}
         </div>
 
         <div className={styles.connects}>
